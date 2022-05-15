@@ -21,9 +21,9 @@ nome varchar (100) NOT NULL
 insert into autores (nome) values ('Tanenball');
 insert into autores (nome) values ('Sommerville');
 
-insert into  livros (titulo, autor_id) values ('Engenharia de Software', 2);
-insert into  livros (titulo, autor_id) values ('Sistemas operacionais', 1);
-insert into  livros (titulo, autor_id) values ('Sistemas Distribuidos', 1);
+insert into  livros (titulo, autor_id) values ('Engenharia da manipulação', 2);
+insert into  livros (titulo, autor_id) values ('Sistemas importantes', 1);
+insert into  livros (titulo, autor_id) values ('Sistemas cerebral', 1);
 
 
 select * from usuarios;
