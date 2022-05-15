@@ -25,9 +25,6 @@ insert into  livros (titulo, autor_id) values ('Engenharia de Software', 2);
 insert into  livros (titulo, autor_id) values ('Sistemas operacionais', 1);
 insert into  livros (titulo, autor_id) values ('Sistemas Distribuidos', 1);
 
---insert into  livros (titulo) values ('NULL');
-
---insert into  livros (titulo) values ('NULL');
 
 select * from usuarios;
 select * from autores;
