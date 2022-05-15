@@ -25,9 +25,7 @@ insert into  sobrenome (sobre_nome, nome_id) values ('Rogger', 2);
 insert into  sobrenome (sobre_nome, nome_id) values ('Sidder', 1);
 insert into  sobrenome (sobre_nome, nome_id) values ('Kranner', 1);
 
---insert into  sobrenome (sobre_nome) values ('NULL');
 
---insert into  sobrenome (sobre_nome) values ('NULL');
 
 select * from usuarios;
 select * from nomes;
